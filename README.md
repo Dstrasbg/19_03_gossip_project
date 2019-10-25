@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+THP Semaine 4
 
-Things you may want to cover:
+THE GOSSIP PROJET ON RAILS:
 
-* Ruby version
+-Les utilisateurs peuvent créer des potins : "askip john est célib hihi"
+-Les utilisateurs, en créant des potins, peuvent mettre un ou plusieurs tags sur les potins : #romance
 
-* System dependencies
+-Les utilisateurs peuvent commenter des potins 
 
-* Configuration
+-On va faire en sorte qu'il soit possible aussi de commenter des commentaires.
 
-* Database creation
+-Les utilisateurs peuvent liker des potins.
 
-* Database initialization
+-Les utilisateurs peuvent contacter leur commères favoris en MP pour obtenir des exclus mondiales.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Faire un bundle install pour commencer
